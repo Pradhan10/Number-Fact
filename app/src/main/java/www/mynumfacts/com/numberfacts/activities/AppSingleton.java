@@ -1,7 +1,7 @@
 package www.mynumfacts.com.numberfacts.activities;
 
 /**
- * Created by yash on 9/10/17.
+ * Created by Rishi on 9/10/17.
  */
 
 import android.content.Context;
@@ -13,9 +13,6 @@ import com.android.volley.RequestQueue;
 import com.android.volley.toolbox.ImageLoader;
 import com.android.volley.toolbox.Volley;
 
-/**
- * Created by androidtutorialpoint on 5/11/16.
- */
 public class AppSingleton {
     private static AppSingleton mAppSingletonInstance;
     private static Context mContext;
